@@ -1,0 +1,297 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Truth will never shame its master. Dedicated by John Paine, a vvelwisher to peace and truth.</title>
+            <author>Paine, John, fl. 1654.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90623</idno>
+            <idno type="STC">Wing P189</idno>
+            <idno type="STC">Thomason E732_14</idno>
+            <idno type="STC">ESTC R206884</idno>
+            <idno type="EEBO-CITATION">99865979</idno>
+            <idno type="PROQUEST">99865979</idno>
+            <idno type="VID">166876</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90623)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166876)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 113:E732[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Truth will never shame its master. Dedicated by John Paine, a vvelwisher to peace and truth.</title>
+                  <author>Paine, John, fl. 1654.</author>
+               </titleStmt>
+               <extent>[4], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page printed on verso of A1.</note>
+                  <note>Signed on p.[4]: "John Paine, souldier under Col. Haine."; signed at end: John Payne.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>An address to Cromwell, in verse.</note>
+                  <note>Annotation on Thomason copy: "March 31 th: [sic] 1654".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="dedication">
+            <pb facs="tcp:166876:1"/>
+            <head>TRUTH <hi>Will never ſhame its</hi> MASTER.</head>
+            <head type="sub">
+               <hi>DEDICATED</hi> By <hi>John Paine,</hi> a VVelwiſher to <hi>PEACE</hi> and <hi>TR<g ref="char:V">Ʋ</g>TH,</hi>
+            </head>
+            <pb facs="tcp:166876:1"/>
+            <opener>
+               <salute>To His Highneſſe the <hi>Lord Protector OF England, Scotland,</hi> and<hi>Ireland.</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Ay it pleaſe your <hi>High<g ref="char:EOLhyphen"/>neſſe</hi> once more to vouch<g ref="char:EOLhyphen"/>ſafe to reflect a favour<g ref="char:EOLhyphen"/>able Conſtruction upon theſe poor and illiterate Lines, wherein I humbly crave Your <hi>Highneſſe</hi> pardon for my ambition in preſenting them to ſo great a Perſonage, they being ſo mean, and my ſelf ſo un<g ref="char:EOLhyphen"/>worthy:
+<pb facs="tcp:166876:2"/>But in confidence of Your <hi>Highneſſe</hi> Clemencie, and wonted Fa<g ref="char:EOLhyphen"/>vour towards others in the like nature, and alſo the Loyalty and Duty which I owe unto Your <hi>Highneſſe</hi> doth engage me to do this, and more if I could; In the mean time, I am, and will ever re<g ref="char:EOLhyphen"/>main,</p>
+            <closer>
+               <salute>MY LORD,</salute> 
+               <signed>Your <hi>Highneſſe</hi> ſubjected, in all Loyall and Faithfull obedience, till death, <hi>John Paine,</hi> Souldier under Col. <hi>Haine.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:166876:2"/>
+            <lg>
+               <l>REnowned Sir, when in my contemplation</l>
+               <l>I think upon the danger that this Nation</l>
+               <l>Was in of late, and ſo I think is ſtill,</l>
+               <l>If ſome could yet but onely have their will</l>
+               <l>To bring their ends about; as I ſurmiſe,</l>
+               <l>From Antichriſt the Pope did firſt ariſe,</l>
+               <l>And ſo deſcended to our <hi>Engliſh Court,</hi>
+               </l>
+               <l>Where Prieſts and Prelates, as ſome do report,</l>
+               <l>They had a Project, and a great Deſign,</l>
+               <l>Gods glorious <hi>Goſpel</hi> for to undermine</l>
+               <l>By Superſtition, and indeed to me</l>
+               <l>They altogether did ſo well agree</l>
+               <l>To ruine all the Nation, except thoſe</l>
+               <l>That are at preſent your moſt deadly Foes;</l>
+               <l>I know it by experience, for I ſee</l>
+               <l>They are as bad, or worſe, than bad may be;</l>
+               <l>For ſince the Rumor of the <hi>Holland</hi> Peace,</l>
+               <l>In Town and Country they do much increaſe,</l>
+               <l>And ſwear they'l lay a hundred pounds to ten,</l>
+               <l>That this late Treaty will break off again;</l>
+               <l>Which if it ſhould, I hope you'l have a care</l>
+               <l>To make them love you, though it be for fear;</l>
+               <l>It ſtands upon your Highneſſe now to take</l>
+               <l>A ſtricter courſe, than heretofore, and make</l>
+               <l>The Cavalliers and Papiſts all to know</l>
+               <l>You'l have their reaſon whe'r they will or no.</l>
+               <l>If that your Highneſſe have not yet forgot,</l>
+               <l>I gave you notice lately of a Plot,</l>
+               <l>Which was of late diſcover'd as I hear</l>
+               <l>Coming to <hi>London</hi> out of <hi>Dorſetſhire;</hi>
+               </l>
+               <l>They ſay that ſome committed are to <hi>Tower,</hi>
+               </l>
+               <l>And more to be expected there each hour,</l>
+               <l>
+                  <pb n="2" facs="tcp:166876:3"/>
+That are as deep ingaged in the Plot,</l>
+               <l>Againſt your Highneſſe, for I know not what,</l>
+               <l>Nor they themſelves, I dare preſume to ſay,</l>
+               <l>But that You croſſe them in the Kings high-way;</l>
+               <l>I do believe that all the aime they have,</l>
+               <l>Is that the <hi>Hollanders</hi> will play the Knave,</l>
+               <l>And hold You in a Treaty untill they</l>
+               <l>Have gotten all their Merchant Ships away</l>
+               <l>To Sea for Merchandize, which only Trade</l>
+               <l>Is their ſubſiſtence, if they can alade;</l>
+               <l>Without the which they cannot, as I hear,</l>
+               <l>Maintain their War with us another year;</l>
+               <l>The which I leave unto the Lord of Hoaſt,</l>
+               <l>Who hitherto hath kept them from our Coaſt;</l>
+               <l>To whom I do aſcribe all pow'r and might,</l>
+               <l>Becauſe 'twas he who made Your Armies fight</l>
+               <l>By Sea and Land, the which doth terrifie</l>
+               <l>The Nations that do round about us lie.</l>
+               <l>I have a word or two yet more to write,</l>
+               <l>Concerning things which I ſee are not right;</l>
+               <l>But that I'le leave untill ſome other day,</l>
+               <l>And then (God willing) when I come this way,</l>
+               <l>I'le call upon Your Highneſſe, for to know</l>
+               <l>Whe'r I in this tranſgreſſed have or no;</l>
+               <l>I do confeſſe here's neither Rhyme nor Reaſon</l>
+               <l>In all theſe Lines, nor yet (I hope) no Treaſon.</l>
+               <l>And ſo I'le leave Your Highneſſe unto him</l>
+               <l>That giveth Peace unto <hi>Jeruſalem.</hi>
+               </l>
+               <l>
+                  <hi>Your Highneſſe poor</hi>
+               </l>
+               <l>
+                  <hi>Faithful and ſure</hi>
+               </l>
+               <l>
+                  <hi>Servant till death,</hi>
+               </l>
+               <l>
+                  <hi>Here upon earth,</hi>
+               </l>
+               <l>
+                  <hi>I hope to remain</hi>
+               </l>
+               <l>
+                  <hi>For ever,</hi> John Paine,</l>
+               <l>
+                  <pb n="3" facs="tcp:166876:3"/>
+Here is a little Line for every Ten,</l>
+               <l>And if You like them I'le begin agen,</l>
+               <l>Before I go for <hi>Jerſie,</hi> where that I</l>
+               <l>Have liv'd ere ſince the <hi>Iſlands</hi> taking by</l>
+               <l>Your Highneſſe Forces, ſent by Col. <hi>Haine,</hi>
+               </l>
+               <l>For the Reducing of that place again.</l>
+               <l>I've one Requeſt unto Your Highneſſe more</l>
+               <l>That You'l be pleas'd to look upon the poor</l>
+               <l>And ſad conditition which ſome Souldiery</l>
+               <l>Are like to ſuffer, by the ſubtilty</l>
+               <l>Of thoſe that get Debenters for a ſong,</l>
+               <l>That never were in Arms yet all along</l>
+               <l>Theſe bloody Wars, where many thouſand men</l>
+               <l>Have loſt their lives, and never came agen</l>
+               <l>To ſee their Children, neither yet their Wives,</l>
+               <l>Which (now poor ſouls) are weary of their lives.</l>
+               <l>Alaſſe what is it for to have a Crown,</l>
+               <l>Or half ſo much, when there is due a pound?</l>
+               <l>(For ſervice done already for the State,</l>
+               <l>Is now forgotten, and quite out of date)</l>
+               <l>Beſides, a third deducted for Free-quarter</l>
+               <l>To pay our Landlords for the ſame hereafter.</l>
+               <l>When we are paid off our Debenters clear,</l>
+               <l>T'will be to many a very happy yeer;</l>
+               <l>But in the mean time if there ben't a care</l>
+               <l>Many will ſtarve for want of food I fear;</l>
+               <l>For I my ſelfe, as plainly may appear,</l>
+               <l>Have ſerv'd the States almoſt this fourteen yeer,</l>
+               <l>And never had one peny for my pain</l>
+               <l>Untill I ſerved under Collonel <hi>Hain,</hi>
+               </l>
+               <l>Which was about ſome four or five yeer ſince,</l>
+               <l>The time before was on my own expence;</l>
+               <l>Beſides I've ſpent, in trotting up and down</l>
+               <l>After Committees, well neer forty pound.</l>
+               <l>
+                  <pb n="4" facs="tcp:166876:4"/>
+There are many more I know can ſay the ſame,</l>
+               <l>But how to remedy, or who to blame,</l>
+               <l>I do not know as yet, becauſe that I</l>
+               <l>Am not acquainted with State policie,</l>
+               <l>Which I confeſſe is good, if't be well us'd,</l>
+               <l>But I ſee daily it is much abus'd</l>
+               <l>By ſome of whom Your Highneſſe little deem</l>
+               <l>That they ſhould ſo Your Orders diſ-eſteem,</l>
+               <l>As do Exciſe-men, Treaſurers, and Committees,</l>
+               <l>In all Your Counties, Villages and Cities.</l>
+            </lg>
+            <lg>
+               <l>Once more, my Lord, I ſhall deſire to take</l>
+               <l>My leave of You at preſent, and to make</l>
+               <l>An end of theſe my ſimple Lines, and ſo</l>
+               <l>I'le for <hi>Jerſey,</hi> as faſt as I can go:</l>
+               <l>And there I hope, my Lord, for to remaine,</l>
+               <l>Your Highneſſe ſervant untill Death</l>
+            </lg>
+            <closer>
+               <signed>JOHN PAYNE.</signed>
+            </closer>
+            <epigraph>
+               <q>
+                  <l>Truth may be blam'd by ſome, though not by all,</l>
+                  <l>I have thrown it out, but know not where 'twill fall.</l>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
